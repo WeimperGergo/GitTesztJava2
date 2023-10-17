@@ -707,7 +707,7 @@ public double segedOsszeg = 0;
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Tesztverzió 2!");
+        JOptionPane.showMessageDialog(rootPane, "Tesztverzió 2!", "FIGYELMEZTETÉS", 2);
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
